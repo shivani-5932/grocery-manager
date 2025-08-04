@@ -53,5 +53,12 @@ grocery-manager/
 ├── grocery_manager.py
 ├── README.md
 
-```bash
-python grocery_manager.py
+---
+
+## 🧠 Author
+
+*Shivani Emanuel*
+
+> Passionate about learning and building with Python — this is one of my early Python mini-projects.
+
+---
